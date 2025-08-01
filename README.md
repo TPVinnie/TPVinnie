@@ -18,65 +18,74 @@ def me():
 
 ## 💻 Tech Stack
 
-### 🚀 Programming Languages
-![Python](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-informational?style=for-the-badge&logo=r&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-informational?style=for-the-badge&logo=sas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-informational?style=for-the-badge&logo=mysql&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-informational?style=for-the-badge&logo=apachespark&logoColor=white)  
+### 🚀 Programming Languages  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-0278D7?style=for-the-badge&logo=sas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-F72828?style=for-the-badge&logo=apachespark&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 <br>
 
-### 🧠 Machine Learning & Deep Learning
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-informational?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-informational?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-informational?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-informational?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-informational?style=for-the-badge&logo=opencv&logoColor=white)  
-![BERT](https://img.shields.io/badge/BERT-informational?style=for-the-badge&logo=google&logoColor=white)
-![LSTM](https://img.shields.io/badge/LSTM-informational?style=for-the-badge&logo=keras&logoColor=white)
-![ARIMA](https://img.shields.io/badge/ARIMA-informational?style=for-the-badge&logo=python&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-informational?style=for-the-badge&logo=keras&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-informational?style=for-the-badge&logo=yolo&logoColor=white)  
+
+### 🧠 Machine Learning & Deep Learning  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![BERT](https://img.shields.io/badge/BERT-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM-F9A825?style=for-the-badge&logo=keras&logoColor=white)
+![ARIMA](https://img.shields.io/badge/ARIMA-336699?style=for-the-badge&logo=python&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-B71C1C?style=for-the-badge&logo=keras&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-FFB300?style=for-the-badge&logo=yolo&logoColor=white)  
 <br>
 
-### 🌐 Cloud & MLOps
-![AWS](https://img.shields.io/badge/AWS-informational?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-informational?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-informational?style=for-the-badge&logo=googlecloud&logoColor=white)
-![SageMaker](https://img.shields.io/badge/SageMaker-informational?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Bedrock](https://img.shields.io/badge/Bedrock-informational?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS%20Lambda-informational?style=for-the-badge&logo=awslambda&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex%20AI-informational?style=for-the-badge&logo=googlecloud&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-informational?style=for-the-badge&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-informational?style=for-the-badge&logo=kubernetes&logoColor=white)  
+### 🌐 Cloud & MLOps  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-1A202C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Bedrock](https://img.shields.io/badge/Bedrock-FF6F00?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
 <br>
 
-### 🛠️ Dev & Data Tools
-![Git](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=github&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-informational?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-informational?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-informational?style=for-the-badge&logo=gradio&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-informational?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-informational?style=for-the-badge&logo=githubactions&logoColor=white)  
+### 🛠️ Dev & Data Tools  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-00897B?style=for-the-badge&logo=gradio&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-6DB33F?style=for-the-badge&logo=githubactions&logoColor=white)  
 <br>
 
-### 📊 Data Analytics & Visualization
-![Tableau](https://img.shields.io/badge/Tableau-informational?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-informational?style=for-the-badge&logo=powerbi&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-informational?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-informational?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-informational?style=for-the-badge&logo=plotly&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-informational?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-informational?style=for-the-badge&logo=microsoft&logoColor=white)  
+### 📊 Data Analytics & Visualization  
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=microsoft&logoColor=black)  
 <br>
 
-### 🧱 Databases & Storage
-![MySQL](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/SQL%20Server-informational?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Redshift-informational?style=for-the-badge&logo=amazonredshift&logoColor=white)
-![TablePlus](https://img.sh)
+### 🧱 Databases & Storage  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Redshift-4053D6?style=for-the-badge&logo=amazonredshift&logoColor=white)
+![TablePlus](https://img.shields.io/badge/TablePlus-FF9900?style=for-the-badge&logo=tableplus&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-2D3748?style=for-the-badge&logo=pinecone&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-8E44AD?style=for-the-badge&logo=chromadb&logoColor=white)
 
 
 ## Projects
