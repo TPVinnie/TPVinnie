@@ -1,20 +1,21 @@
 # About Me
-def me():
+def me():  
   return "⚙️AI Engineer | Self‑taught Coder | Problem Solver | Challenge Seeker"
 
 ## 🌟 About Me:
 
 🛠 I’m currently working on LLM Applications  
 🧑‍🤝‍🧑 I’m looking to collaborate on LLMs for Knowledge Graphs using unstructured data  
-🤝 I’m looking for help with Edge Integration 
-🌱 I’m currently learning Building AI Agents 
-💬 Ask me about Generative AI 
-⚡ Fun fact :  I once explained Transformers at a dinner party—people stayed for dessert.
+🤝 I’m looking for help with Edge Integration.  
+🌱 I’m currently learning Building AI Agents  
+💬 Ask me about Generative AI  
+⚡ Fun fact :  I once explained Transformers at a dinner party—people stayed for dessert.  
 
 
 **Socials:**  
-📍 Your City  
-[LinkedIn](https://linkedin.com/in/techo)
+📍  [LinkedIn](https://linkedin.com/in/techo)  
+
+
 
 ## 💻 Tech Stack
 
