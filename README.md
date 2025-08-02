@@ -1,6 +1,7 @@
 # About Me
 def me():  
-  return "⚙️AI Engineer | Self‑taught Coder | Problem Solver | Challenge Seeker"
+    return "⚙️AI Engineer | Self-taught Coder | Problem Solver | Challenge Seeker"
+
 
 ## 🌟 About Me:
 
