@@ -9,7 +9,7 @@ def me():
 🛠 I’m currently working on LLM Applications  
 🧑‍🤝‍🧑 I’m looking to collaborate on LLMs for Knowledge Graphs using unstructured data  
 🤝 I’m looking for help with Edge Integration.  
-🌱 I’m currently learning Building AI Agents  
+🌱 I’m currently learning How to Build Agentic Systems   
 💬 Ask me about Generative AI  
 ⚡ Fun fact :  I once explained Transformers at a dinner party—people stayed for dessert.  
 
