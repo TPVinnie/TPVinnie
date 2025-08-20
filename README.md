@@ -99,6 +99,8 @@ def me():
    
 3. **[Advanced RAG](https://github.com/TPVinnie/Advanced-RAG)** - A comprehensive and detailed implementation of Retrievl Augmented generation (RAG).
 
+4. **[Agentic AI Complete Course](https://github.com/TPVinnie/Agentic-AI-Complete)** - A comprehensive on Agentic AI covering agentic AI systems and tools such as Langchain, Langgraph, CrewAI, Autogen, etc. Not for beginners, but coded in a simplified fashion.
+
 
 ## GitHub Stats  
 ![Stats](GitHub‑readme‑stats URL)  
