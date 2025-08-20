@@ -93,13 +93,13 @@ def me():
 
 ## Projects
 1. **Langchain Company Info Search** — A Langchain project for finding basic information about companies, making a competitive analysis to see how said company can meet up with its competitors.
-   ![Langchain Company Info Search Repo](https://github.com/TPVinnie/Company-Info-Search_Langchain)
+   [Langchain Company Info Search Repo](https://github.com/TPVinnie/Company-Info-Search_Langchain)
 
-2. **Data Scient Assistant** — As a mentor, this data science assistant was created using langchain to help junios data scientists understand and automate the data science process.
-   ![Data Science Assistant Repo](https://github.com/TPVinnie/Data-Science-Assistant)
+3. **Data Scient Assistant** — As a mentor, this data science assistant was created using langchain to help junios data scientists understand and automate the data science process.
+   [Data Science Assistant Repo](https://github.com/TPVinnie/Data-Science-Assistant)
    
-4. **Advanced RAG** - A comprehensive an detailed implementation of Retrievl Augmented generation (RAG)
-   ![Advanced RAG repo](https://github.com/TPVinnie/Advanced-RAG)
+5. **Advanced RAG** - A comprehensive an detailed implementation of Retrievl Augmented generation (RAG).
+   [Advanced RAG repo](https://github.com/TPVinnie/Advanced-RAG)
 
 ## GitHub Stats  
 ![Stats](GitHub‑readme‑stats URL)  
