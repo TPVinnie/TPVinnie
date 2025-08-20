@@ -97,7 +97,7 @@ def me():
    
 2. **[Data Scient Assistant](https://github.com/TPVinnie/Data-Science-Assistant)** — As a mentor, this data science assistant was created using langchain to help junios data scientists understand and automate the data science process.
    
-3. **[Advanced RAG](https://github.com/TPVinnie/Advanced-RAG)** - A comprehensive an detailed implementation of Retrievl Augmented generation (RAG).
+3. **[Advanced RAG](https://github.com/TPVinnie/Advanced-RAG)** - A comprehensive and detailed implementation of Retrievl Augmented generation (RAG).
 
 
 ## GitHub Stats  
